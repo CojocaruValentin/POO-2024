@@ -1,0 +1,4 @@
+﻿  CppCLR_WinFormsProject.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Calculator.vcxproj -> C:\Users\Admin\source\repos\Calculator\x64\Debug\Calculator.exe
